@@ -1,0 +1,14 @@
+{
+	// Restrict
+	"strict": false,
+
+	// Tolerate
+
+	// Environment
+	"node": true,
+	"es5": true,
+
+	// Legacy
+	"white": true,
+	"nomen": false
+}
